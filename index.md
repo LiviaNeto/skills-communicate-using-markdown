@@ -8,3 +8,7 @@
 string myVar = "Hello, world!";
 Console.WriteLine(myVar);
 ```
+
+- [X] Inserir Cabeçalho
+- [X] Inserir Imagem
+- [ ] Adicionar lista
